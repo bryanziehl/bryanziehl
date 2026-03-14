@@ -1,6 +1,6 @@
 ## Bryan Ziehl
 
-Independent systems builder focused on developer tooling, reproducible data pipelines, and operational verification infrastructure.
+Independent systems builder working on developer tooling, reproducible data pipelines, and operational verification infrastructure.
 
 ### Current Work
 
