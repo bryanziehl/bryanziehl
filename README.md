@@ -18,7 +18,13 @@ Core engine for reconstructing verifiable operational timelines.
 
 Reproducible analytics benchmark using the UCI Iris and Wine datasets.
 
-### Tooling Experiments
+### Developer Tools
+
+**deptrace**
+
+CLI tool for tracing dependency lineage in Node.js projects.
+
+Repository: https://github.com/bryanziehl/deptrace
 
 Exploring tools around:
 
