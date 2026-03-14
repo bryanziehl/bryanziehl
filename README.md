@@ -10,25 +10,7 @@ An event-ledger system for reconstructing and verifying operational timelines fr
 
 ### Prima Veritas (conceptual flow)
 
-Raw System Data
-      │
-      ▼
-   Ingest
-      │
-      ▼
-  Normalize
-      │
-      ▼
-   Atomize
-      │
-      ▼
- Event Ledger
-      │
-      ▼
- Timeline Replay
-      │
-      ▼
- Verified Operational History
+Raw System Data → Ingest → Normalize → Atomize → Event Ledger → Timeline Replay → Verified Operational History
 
 ### Repositories
 
