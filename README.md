@@ -1,16 +1,28 @@
-## Hi there 👋
+## Bryan Ziehl
 
-<!--
-**bryanziehl/bryanziehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent systems builder focused on developer tooling, reproducible data pipelines, and operational verification infrastructure.
 
-Here are some ideas to get you started:
+### Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Prima Veritas**
+
+An event-ledger system for reconstructing and verifying operational timelines from raw system data.
+
+### Repositories
+
+**prima-veritas-core**
+
+Core engine for reconstructing verifiable operational timelines.
+
+**prima-veritas-demo**
+
+Reproducible analytics benchmark using the UCI Iris and Wine datasets.
+
+### Tooling Experiments
+
+Exploring tools around:
+
+• dependency lineage tracing  
+• reproducible pipelines  
+• operational data reconstruction  
+• verification workflows
