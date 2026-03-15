@@ -14,13 +14,14 @@ Raw System Data → Ingest → Normalize → Atomize → Event Ledger → Timeli
 
 ### Repositories
 
-**prima-veritas-core**
+prima-veritas-core  
+Core engine for reconstructing verifiable operational timelines.  
+Repository: https://github.com/bryanziehl/prima-veritas-core
 
-Core engine for reconstructing verifiable operational timelines.
+prima-veritas-demo  
+Reproducible analytics benchmark using the UCI Iris and Wine datasets.  
+Repository: https://github.com/bryanziehl/prima-veritas-demo
 
-**prima-veritas-demo**
-
-Reproducible analytics benchmark using the UCI Iris and Wine datasets.
 
 ### Developer Tools
 
