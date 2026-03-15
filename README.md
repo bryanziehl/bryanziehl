@@ -12,7 +12,7 @@ An event-ledger system for reconstructing and verifying operational timelines fr
 
 Raw System Data → Ingest → Normalize → Atomize → Event Ledger → Timeline Replay → Verified Operational History
 
-### Repositories
+### Core Repositories
 
 prima-veritas-core  
 Core engine for reconstructing verifiable operational timelines.  
