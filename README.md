@@ -1,39 +1,58 @@
-## Bryan Ziehl
+# Bryan Ziehl
 
 Independent systems builder working on developer tooling, reproducible data pipelines, and operational verification infrastructure.
 
-### Current Work
+---
 
-**Prima Veritas**
+## Current Work
+
+### Prima Veritas
 
 An event-ledger system for reconstructing and verifying operational timelines from raw system data.
 
-### Prima Veritas (conceptual flow)
+Conceptual flow:
 
 Raw System Data → Ingest → Normalize → Atomize → Event Ledger → Timeline Replay → Verified Operational History
 
-### Core Repositories
+---
 
-prima-veritas-core  
+## Core Repositories
+
+**prima-veritas-core**  
 Core engine for reconstructing verifiable operational timelines.  
-Repository: https://github.com/bryanziehl/prima-veritas-core
+https://github.com/bryanziehl/prima-veritas-core
 
-prima-veritas-demo  
+**prima-veritas-demo**  
 Reproducible analytics benchmark using the UCI Iris and Wine datasets.  
-Repository: https://github.com/bryanziehl/prima-veritas-demo
+https://github.com/bryanziehl/prima-veritas-demo
 
+---
 
-### Developer Tools
+## Developer Tooling
 
-**deptrace**
+A small suite of Node.js CLI tools for dependency analysis and project diagnostics.
 
-CLI tool for tracing dependency lineage in Node.js projects.
+**deptrace**  
+Trace dependency lineage in Node.js projects using `package-lock.json`.  
+https://github.com/bryanziehl/deptrace
 
-Repository: https://github.com/bryanziehl/deptrace
+**ghostdep**  
+Detect unused dependencies declared in `package.json`.  
+https://github.com/bryanziehl/ghostdep
 
-Exploring tools around:
+**depmissing**  
+Detect imports used in source code but missing from `package.json`.  
+https://github.com/bryanziehl/depmissing
 
-• dependency lineage tracing  
-• reproducible pipelines  
-• operational data reconstruction  
-• verification workflows
+**lockdrift**  
+Detect drift between `package.json` and `package-lock.json`.  
+https://github.com/bryanziehl/lockdrift
+
+---
+
+## Focus Areas
+
+- dependency lineage tracing  
+- reproducible data pipelines  
+- operational data reconstruction  
+- verification workflows  
