@@ -24,11 +24,11 @@ https://github.com/bryanziehl/prima-veritas-demo-system
 
 **pv-event-ledger**  
 Reference implementation of event sequencing and hash-linked ledgers for reconstructing verifiable operational history.
-https://github.com/bryanziehl/prima-veritas-core
+https://github.com/bryanziehl/pv-event-ledger
 
 **pv-reproducible-pipeline**  
 Reference implementation of a reproducible analytics pipeline with cross-machine verification and hash-stable outputs.
-https://github.com/bryanziehl/prima-veritas-demo
+https://github.com/bryanziehl/pv-reproducible-pipeline
 
 ---
 
