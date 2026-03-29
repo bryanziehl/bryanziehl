@@ -26,8 +26,8 @@ https://github.com/bryanziehl/prima-veritas-demo-system
 Core engine for reconstructing verifiable operational timelines.  
 https://github.com/bryanziehl/prima-veritas-core
 
-**prima-veritas-demo**  
-Reproducible analytics benchmark using the UCI Iris and Wine datasets.  
+**pv-reproducible-pipeline**  
+Reference implementation of a reproducible analytics pipeline with cross-machine verification and hash-stable outputs.
 https://github.com/bryanziehl/prima-veritas-demo
 
 ---
