@@ -1,6 +1,6 @@
 # Bryan Ziehl
 
-Building systems for reconstructing and verifying operational history across fragmented data.
+Building infrastructure for operational verification in complex systems.
 
 ---
 
