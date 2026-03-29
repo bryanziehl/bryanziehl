@@ -16,7 +16,13 @@ Raw System Data → Ingest → Normalize → Atomize → Event Ledger → Timeli
 
 ---
 
-## Core Repositories
+## Demonstration System
+
+**prima-veritas-demo-system**
+Public demonstration system for reconstructing and verifying operational timelines from structured event records.
+https://github.com/bryanziehl/prima-veritas-demo-system
+
+## Foundational Systems
 
 **prima-veritas-core**  
 Core engine for reconstructing verifiable operational timelines.  
