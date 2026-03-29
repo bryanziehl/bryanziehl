@@ -22,8 +22,8 @@ https://github.com/bryanziehl/prima-veritas-demo-system
 
 ## Foundational Systems
 
-**prima-veritas-core**  
-Core engine for reconstructing verifiable operational timelines.  
+**prima-event-ledger**  
+Reference implementation of event sequencing and hash-linked ledgers for reconstructing verifiable operational history.
 https://github.com/bryanziehl/prima-veritas-core
 
 **pv-reproducible-pipeline**  
