@@ -15,7 +15,6 @@ Reconstructs fragmented system data into a consistent, verifiable operational hi
 ## Demonstration System
 
 **prima-veritas-demo-system**
-
 Public system for reconstructing and verifying operational timelines from structured event data. Upload a dataset to generate a reproducible history and verification bundle.
 
 https://github.com/bryanziehl/prima-veritas-demo-system
