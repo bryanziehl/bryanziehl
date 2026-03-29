@@ -27,7 +27,7 @@ Reference implementation of event sequencing and hash-linked ledgers for reconst
 https://github.com/bryanziehl/pv-event-ledger
 
 **pv-reproducible-pipeline**  
-Reference implementation of a reproducible analytics pipeline with cross-machine verification and hash-stable outputs.
+Reference implementation of a reproducible data pipeline with cross-machine verification and hash-stable outputs.
 https://github.com/bryanziehl/pv-reproducible-pipeline
 
 ---
