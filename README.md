@@ -10,10 +10,6 @@ Building systems for reconstructing and verifying operational history across fra
 
 Reconstructs fragmented system data into a consistent, verifiable operational history.
 
-Conceptual flow:
-
-Raw System Data → Ingest → Normalize → Atomize → Event Ledger → Timeline Replay → Verified Operational History
-
 ---
 
 ## Demonstration System
