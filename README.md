@@ -20,7 +20,7 @@ Public system for reconstructing and verifying operational timelines from struct
 
 https://github.com/bryanziehl/prima-veritas-demo-system
 
-## Foundational Systems
+## Reference Systems
 
 **pv-event-ledger**  
 Reference implementation of event sequencing and hash-linked ledgers for reconstructing verifiable operational history.
