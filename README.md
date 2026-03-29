@@ -8,7 +8,7 @@ Building systems for reconstructing and verifying operational history across fra
 
 ### Prima Veritas
 
-A system for reconstructing and verifying operational history from fragmented system data.
+Reconstructs fragmented system data into a consistent, verifiable operational history.
 
 Conceptual flow:
 
