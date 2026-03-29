@@ -1,6 +1,6 @@
 # Bryan Ziehl
 
-Independent systems builder working on developer tooling, reproducible data pipelines, and operational verification infrastructure.
+Building systems for reconstructing and verifying operational history across fragmented data.
 
 ---
 
@@ -8,7 +8,7 @@ Independent systems builder working on developer tooling, reproducible data pipe
 
 ### Prima Veritas
 
-An event-ledger system for reconstructing and verifying operational timelines from raw system data.
+A system for reconstructing and verifying operational history from fragmented system data.
 
 Conceptual flow:
 
@@ -19,8 +19,8 @@ Raw System Data → Ingest → Normalize → Atomize → Event Ledger → Timeli
 ## Demonstration System
 
 **prima-veritas-demo-system**
-Public demonstration system for reconstructing and verifying operational 
-timelines from structured event records.
+Public system for reconstructing and verifying operational timelines from structured event data.
+Upload a dataset to generate a reproducible history and verification bundle.
 https://github.com/bryanziehl/prima-veritas-demo-system
 
 ## Foundational Systems
