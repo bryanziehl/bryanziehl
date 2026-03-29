@@ -22,7 +22,7 @@ https://github.com/bryanziehl/prima-veritas-demo-system
 
 ## Foundational Systems
 
-**prima-event-ledger**  
+**pv-event-ledger**  
 Reference implementation of event sequencing and hash-linked ledgers for reconstructing verifiable operational history.
 https://github.com/bryanziehl/prima-veritas-core
 
